@@ -1,0 +1,12 @@
+#grid {
+   display:grid;
+   grid-template-columns:100px 1fr;
+ }
+ h1 {
+   padding:10px;
+   text-align:center;
+   margin:0;
+ }
+ p {
+   padding-left:16px;
+ }
